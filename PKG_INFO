@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: hoomanlife
+Version: 0.1.0
+Summary: Personal projects and tasks management system.
+Home-page: http://github.com/hoomanlogic/hoomanlife/
+Author: Geoffrey Floyd
+Author-email: geoffrey.floyd@hoomanlogic.com
+License: Apache Software License v2.0
+Download-URL: http://github.com/hoomanlogic/hoomanlife/
+Description: Personal projects and tasks management system.
+Platform: Any
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Text Processing
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.0
+Classifier: Programming Language :: Python :: 3.1
+Classifier: Programming Language :: Python :: 3.2
